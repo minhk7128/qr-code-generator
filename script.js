@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
         width: 300,
         height: 300,
         type: "svg",
-        data: "https://github.com/FOSSpel",
+        data: "https://fosspel.github.io/qr-code-generator/",
         image: "",
         dotsOptions: { color: "#000000", type: "square" },
         backgroundOptions: { color: "#ffffff" },
