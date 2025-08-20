@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fosspel.github.io/qr-code-generator/sitemap.xml
