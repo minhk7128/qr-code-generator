@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>QR Code Generator - Free, Unlimited, and Private</title>
+    <meta name="description" content="A powerful, privacy-first QR code generator. Create unlimited, permanent QR codes with custom colors, styles, and logos. No ads, no tracking, no registration required.">
+    <meta name="keywords" content="qr code generator, free qr code, custom qr code, qr code with logo, permanent qr code, no ads qr code, private qr code">
+    
+    <link rel="canonical" href="https://FOSSpel.github.io/qr-code-generator/">
+    <link rel="stylesheet" href="style.css">
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://FOSSpel.github.io/qr-code-generator/">
+    <meta property="og:title" content="QR Code Generator - Free, Unlimited, and Private">
+    <meta property="og:description" content="Create custom QR codes instantly. No ads, no registration, no data collection.">
+    <meta property="twitter:card" content="summary_large_image">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Free QR Code Generator",
+      "description": "A serverless web application for generating permanent and unlimited QR codes with advanced customization. The service is provided without ads, user registration, or data collection, ensuring user privacy.",
+      "url": "https://FOSSpel.github.io/qr-code-generator/",
+      "applicationCategory": "Utilities",
+      "operatingSystem": "Any (Web)",
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+      "provider": { "@type": "Person", "name": "FOSSpel", "url": "https://github.com/FOSSpel" }
+    }
+    </script>
+    
+    <script type="text/javascript">
+        (function(m,e,t,r,i,k,a){
+            m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();
+            for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+            k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+        })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=103815172', 'ym');
+
+        ym(103815172, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", accurateTrackBounce:true, trackLinks:true});
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/103815172" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+</head>
+<body>
+    <div class="app-container">
+        <header class="app-header">
+            <h1>QR Code Generator</h1>
+            <p>Free, permanent, and privacy-focused.</p>
+        </header>
+
+        <main class="generator-core">
+            <div class="controls-panel">
+                <div class="control-group">
+                    <label for="qr-text">Text or URL</label>
+                    <textarea id="qr-text" rows="4" placeholder="Enter your data here...">https://github.com/FOSSpel</textarea>
+                </div>
+                
+                <div class="inline-controls">
+                    <div class="control-group">
+                        <label for="qr-color">Code Color</label>
+                        <input type="color" id="qr-color" value="#000000">
+                    </div>
+                    <div class="control-group">
+                        <label for="qr-bg-color">Background</label>
+                        <input type="color" id="qr-bg-color" value="#ffffff">
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label for="dot-style">Dot Style</label>
+                    <select id="dot-style">
+                        <option value="square">Square</option>
+                        <option value="dots">Dots</option>
+                        <option value="rounded">Rounded</option>
+                    </select>
+                </div>
+
+                <div class="control-group">
+                    <label for="qr-size">Size</label>
+                    <div class="slider-group">
+                        <input type="range" id="qr-size" min="100" max="1000" value="300" step="10">
+                        <span id="qr-size-value">300px</span>
+                    </div>
+                </div>
+
+                <div class="control-group">
+                    <label for="logo-upload" class="file-label">Add Logo (optional)</label>
+                    <input type="file" id="logo-upload" accept="image/png, image/jpeg, image/svg+xml">
+                    <button id="remove-logo" class="text-button hidden">Remove Logo</button>
+                </div>
+                
+                <button id="download-btn" class="action-button">Download PNG</button>
+            </div>
+
+            <div class="preview-panel">
+                <div id="qr-code-container"></div>
+                <p>Live Preview</p>
+            </div>
+        </main>
+
+        <footer class="app-footer">
+            <p>Built by <a href="https://github.com/FOSSpel" target="_blank" rel="noopener">FOSSpel</a></p>
+        </footer>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/qr-code-styling@1.6.0/lib/qr-code-styling.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
